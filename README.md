@@ -1,2 +1,2 @@
-# C-
+# C++
 ESTUDOS EM C++
